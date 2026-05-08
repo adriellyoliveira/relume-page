@@ -1,4 +1,4 @@
-# Prova Prática — Web Standards
+<h1 align="center">Prova Prática — Web Standards</h1>
 
 <p align="center">
   Projeto desenvolvido para a prova prática da unidade curricular de <strong>Web Standards</strong>.
