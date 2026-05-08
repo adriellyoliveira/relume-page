@@ -8,6 +8,8 @@
   Primeiro semestre de TSI • Professor Correa
 </p>
 
+<p align="center">2026 Relume. All rights reserved.</p>
+
 ---
 
 ## Sobre o projeto
